@@ -4,7 +4,7 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://idyllic-starship-a7675d.netlify.app/
 
 ### Screenshot
 
